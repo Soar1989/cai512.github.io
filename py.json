@@ -62,7 +62,17 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://cai512.github.io/plugin/py_cokemv.py"
-	}, {
+	},
+   {
+      "key": "t4public",
+      "name": "T4公共",
+      "type": 4,
+      "api": "https://t4.secan.icu/vod?sites=all&ali_token=https://5848531ky0.oicp.vip/TS/token.json&timeout=10",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+	{
 		"key": "py_xmaomi",
 		"name": "猫咪",
 		"type": 3,
@@ -118,29 +128,10 @@
       "filterable": 1
     },
     {
-      "key": "Alist",
-      "name": "Alist",
-      "type": 3,
-      "api": "csp_Alist",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://5848531ky0.oicp.vip/TS/Alist.json"
-    },
-    {
       "key": "神马影院",
       "name": "神马影院",
       "type": 3,
       "api": "csp_Smdyy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "小苹果",
-      "name": "小苹果",
-      "type": 3,
-      "api": "csp_LiteApple",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -219,43 +210,6 @@
       "filterable": 0
     },
     {
-      "key": "小宝影院",
-      "name": "小宝影院",
-      "type": 3,
-      "api": "csp_Xiaoh",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "If101",
-      "name": "If101",
-      "type": 3,
-      "api": "csp_If101",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Olevod",
-      "name": "Olevod",
-      "type": 3,
-      "api": "csp_Olevod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Bili",
-      "name": "B站",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://5848531ky0.oicp.vip/TS/bili.json"
-    },
-    {
       "key": "push_agent",
       "name": "推送",
       "type": 3,
@@ -264,15 +218,6 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "https://5848531ky0.oicp.vip/TS/token.json"
-    },
-    {
-      "key": "t4public",
-      "name": "T4公共",
-      "type": 4,
-      "api": "https://t4.secan.icu/vod?sites=all&ali_token=https://5848531ky0.oicp.vip/TS/token.json&timeout=10",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
     },
 	{
 		"key": "py_pansou",

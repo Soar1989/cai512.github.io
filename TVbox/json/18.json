@@ -14,7 +14,7 @@
     },
     {
       "key": "csp_xpath_xxj",
-      "name": "部分由贝诺公司筛选",
+      "name": "sese筛选",
       "type": 3,
       "api": "csp_XPathMacFilter",
       "searchable": 1,
@@ -33,7 +33,7 @@
     },
     {
       "key": "影库资源",
-      "name": "公",
+      "name": "影库",
       "type": 1,
       "api": "https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/",
       "searchable": 1,
@@ -42,7 +42,7 @@
     },
     {
       "key": "速播",
-      "name": "众",
+      "name": "速播",
       "type": 1,
       "api": "https://api.suboapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -51,7 +51,7 @@
     },
     {
       "key": "美少女",
-      "name": "号",
+      "name": "美少女",
       "type": 0,
       "api": "https://www.msnii.com/api/xml.php",
       "searchable": 1,
@@ -60,7 +60,7 @@
     },
     {
       "key": "点点",
-      "name": "云星日记",
+      "name": "点点",
       "type": 0,
       "api": "https://xx55zyapi.com/home/cjapi/ascf/mc/vod/xml",
       "searchable": 1,
@@ -69,7 +69,7 @@
     },
     {
       "key": "屌丝",
-      "name": "星",
+      "name": "屌丝",
       "type": 0,
       "api": "https://sdszyapi.com/home/cjapi/asbb/sea/vod/xml",
       "searchable": 1,
@@ -78,7 +78,7 @@
     },
     {
       "key": "哥哥妹妹",
-      "name": "日",
+      "name": "哥哥妹妹",
       "type": 0,
       "api": "http://www.ggmmzy.com:9999/inc/xml",
       "searchable": 0,
@@ -87,7 +87,7 @@
     },
     {
       "key": "*CK资源",
-      "name": "记",
+      "name": "CK资源",
       "type": 1,
       "api": "http://www.feifei67.com/api.php/provide/vod/",
       "searchable": 1,

@@ -1,27 +1,5 @@
-
-
 {
   "sites": [
-
-    {
-      "key": "精工厂",
-      "name": "🔞精工长",
-      "type": 0,
-      "api": "https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "csp_xpath_xxj",
-      "name": "🔞sese筛选",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "{\r\n\"ua\": \"\",\r\n\"homeUrl\": \"https://www.2024xxj.com\",\r\n\"cateNode\": \"//div[contains(@class,'wrap mt10 nav')]/ul[contains(@class,'nav_menu')]/li/a[contains(@href,'vod-type')]\",\r\n\"cateName\": \"/text()\",\r\n\"cateId\": \"/@href\",\r\n\"cateIdR\": \"/?m=vod-type-(\\\\w+)\",\r\n\"cateManual\": {},\r\n\"homeVodNode\": \"//div[contains(@class,'box movie_list')]/ul/li/a\",\r\n\"homeVodName\": \"/h3/text()\",\r\n\"homeVodId\": \"/@href\",\r\n\"homeVodIdR\": \"\",\r\n\"homeVodImg\": \"/img/@src\",\r\n\"homeVodImgR\": \"\",\r\n\"cateUrl\": \"https://www.2024xxj.com/?m=vod-type-{cateId}-{catePg}.html\",\r\n\"cateVodNode\": \"//div[contains(@class,'box movie_list')]/ul/li/a\",\r\n\"cateVodName\": \"/h3/text()\",\r\n\"cateVodId\": \"/@href\",\r\n\"cateVodIdR\": \"\",\r\n\"cateVodImg\": \"/img/@src\",\r\n\"cateVodImgR\": \"\",\r\n\"dtUrl\": \"https://www.2024xxj.com/{vid}\",\r\n\"dtNode\": \"//body\",\r\n\"dtName\": \"//span[contains(@class,'cat_pos_l')]/h1/text()\",\r\n\"dtImg\": \"//div[contains(@class,'film_info clearfix')]/dl/dt/img/@src\",\r\n\"dtFromNode\": \"//div[contains(@class,'film_bar clearfix')]/strong/span\",\r\n\"dtFromName\": \"/text()\",\r\n\"dtUrlNode\": \"//div[contains(@class,'film_bar clearfix')]/ul\",\r\n\"dtUrlSubNode\": \"/li/a\",\r\n\"dtUrlId\": \"/@href\",\r\n\"dtUrlIdR\": \"\",\r\n\"dtUrlName\": \"/text()\", \r\n\"playUrl\": \"https://www.2024xxj.com/{playUrl}\",\r\n\"playUa\": \"\"\r\n}"
-    },
     {
       "key": "91md",
       "name": "🔞91",
@@ -41,15 +19,6 @@
       "filterable": 0
     },
     {
-      "key": "速播",
-      "name": "🔞速播",
-      "type": 1,
-      "api": "https://api.suboapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "美少女",
       "name": "🔞美少女",
       "type": 0,
@@ -57,24 +26,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "点点",
-      "name": "🔞点点",
-      "type": 0,
-      "api": "https://xx55zyapi.com/home/cjapi/ascf/mc/vod/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "屌丝",
-      "name": "🔞屌丝",
-      "type": 0,
-      "api": "https://sdszyapi.com/home/cjapi/asbb/sea/vod/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
     },
     {
       "key": "哥哥妹妹",
@@ -104,15 +55,6 @@
       "filterable": 0
     },
     {
-      "key": "*白嫖资源",
-      "name": "🔞白嫖",
-      "type": 0,
-      "api": "https://www.kxgav.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "zp028",
       "name": "🔞P",
       "type": 0,
@@ -122,55 +64,10 @@
       "filterable": 0
     },
     {
-      "key": "zp020",
-      "name": "🔞》",
-      "type": 0,
-      "api": "http://m.7777688.com/inc/api.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "*色色资源",
       "name": "🔞涩涩",
       "type": 0,
       "api": "http://secj8.com/inc/sapi.php?ac=videolist",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "*点点娱乐",
-      "name": "🔞点点",
-      "type": 0,
-      "api": "https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "*淫水机资源",
-      "name": "🔞粥水",
-      "type": 0,
-      "api": "https://www.xrbsp.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "*小湿妹资源",
-      "name": "🔞小湿妹",
-      "type": 0,
-      "api": "https://www.afasu.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "*香奶儿资源",
-      "name": "*🔞香",
-      "type": 0,
-      "api": "https://www.gdlsp.com/api/xml.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0

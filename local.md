@@ -8,7 +8,67 @@
 		"quickSearch": 0,
 		"filterable": 1,
 		"ext": "https://cai512.github.io/plugin/py_bilibili.py"
-	}, {
+	}, 
+	"key": "py_bilibili_xp",
+  "name": "🎭相声小品",
+  "type": 3,
+  "api": "py_bilibili",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 1,
+  "ext": "https://cai512.github.io/plugin/py_bilibili_xp.py"
+ }, 
+  {
+      "key": "py_cyys",
+      "name": "🚝创艺影视(py)",
+      "type": 3,
+      "api": "py_cyys",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://cai512.github.io/plugin/py_cyys.py"
+    },
+	   {
+      "key": "py_wmkk",
+      "name": "🚝完美看看(py)",
+      "type": 3,
+      "api": "py_wmkk",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://cai512.github.io/plugin/py_wmkk.py"
+    },
+ {
+"key": "py_bilibili_xq",
+  "name": "戏曲",
+  "type": 3,
+  "api": "py_bilibili",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 1,
+  "ext": "https://cai512.github.io/plugin/py_bilibili_xq.py"
+ }, 
+ {
+"key": "py_bilibili_ty",
+  "name": "🏓体育",
+  "type": 3,
+  "api": "py_bilibili",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 1,
+  "ext": "https://cai512.github.io/plugin/py_bilibili_ty.py"
+ }, 
+{
+"key": "py_bilibili_hj",
+  "name": "合集",
+  "type": 3,
+  "api": "py_bilibili",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 1,
+  "ext": "https://cai512.github.io/plugin/py_bilibili_hj.py"
+ },
+	{
 		"key": "py_czspp",
 		"name": "厂长",
 		"type": 3,

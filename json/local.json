@@ -28,6 +28,16 @@
       "filterable": 1,
       "ext": "https://cai512.github.io/plugin/py_cyys.py"
     },
+	 {
+      "key": "py_3qu",
+      "name": "🚝快播影视(py)",
+      "type": 3,
+      "api": "py_3qu",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "cai512.github.io/plugin/py_3qu.py"
+    },
 	   {
       "key": "py_wmkk",
       "name": "🚝完美看看(py)",
